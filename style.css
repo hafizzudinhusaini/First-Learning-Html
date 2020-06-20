@@ -1,0 +1,20 @@
+h1 {
+    color:crimson ;
+    text-align: center;
+}
+
+p {
+    color:blue;
+    text-align: center;
+} 
+
+img {
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;    
+}
+
+body {
+    background-color: cadetblue;
+}
